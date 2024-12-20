@@ -6,6 +6,8 @@ Working as a Front-end Developer.
 
 I have fun writing code and that's what keeps my motivation high. I love creating new projects and I feel great when I try to recreate something that I like to use.
 
+If you want, you can check out my personal projects in my ✨[Portfolio](https://portfolio.gustavocarvalho.dev.br/)✨
+
 ### Tech Stack
 
 #### Front-end  

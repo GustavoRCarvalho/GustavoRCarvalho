@@ -39,23 +39,10 @@ If you want, you can check out my personal projects in my ✨[Portfolio](https:/
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### What I'm reading now?
-[Data Science by Joel Grus](https://github.com/free-educa/books/blob/main/books/Data%20Science%20do%20zero_%20Primeiras%20-%20Joel%20Grus.pdf)
+[Introduction to Algorithms 3rd Edition by Thomas H. Cormen](https://archive.org/details/introduction-to-algorithms-third-edition-2009)
+
+[Data Science by Joel Grus](https://github.com/free-educa/books/blob/main/books/Data%20Science%20do%20zero_%20Primeiras%20-%20Joel%20Grus.pdf) // removed by the culture police
 
 ### How to reach/contact me
 📲 Send me a message on my [Linkedin](https://www.linkedin.com/in/gustavo-carvalho-0/) <br />
 📩 Or send an email to gustavorafaeldecarvalho@gmail.com
-
-<!--
-**GustavoRCarvalho/GustavoRCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

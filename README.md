@@ -43,6 +43,8 @@ If you want, you can check out my personal projects in my ✨[Portfolio](https:/
 
 [Data Science by Joel Grus](https://github.com/free-educa/books/blob/main/books/Data%20Science%20do%20zero_%20Primeiras%20-%20Joel%20Grus.pdf) // removed by the culture police
 
+Projeto de Banco de Dados By Carlos Alberto Heuser // finished
+
 ### How to reach/contact me
 📲 Send me a message on my [Linkedin](https://www.linkedin.com/in/gustavo-carvalho-0/) <br />
 📩 Or send an email to gustavorafaeldecarvalho@gmail.com
